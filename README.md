@@ -1,7 +1,5 @@
 # Contact List Project
-  This is a Contact list project of Coding Ninjas made using Reactjs. It uses redux toolkit for managing the store / state. This Project fetches data from https://jsonplaceholder.typicode.com/users API. A user can see, create, update and delete contacts in this projects. All styles are done using TailwindCSS.
-
- Go live to [Contact list.](https://contact-list-rajxode.netlify.app/)
+  This is a Contact list project  made using Reactjs. It uses redux toolkit for managing the store / state. This Project fetches data from https://jsonplaceholder.typicode.com/users API. A user can see, create, update and delete contacts in this projects. All styles are done using TailwindCSS.
 
 # Installation and Run
   To Run the code on your system, follow the these steps:
@@ -25,13 +23,6 @@
   - JavaScript
   - React-Toastify
   - HTML
-# ScreenShots:
-  ![contact1](https://github.com/rajxode/Contact-list/assets/120395470/a3d76354-16d8-42d3-9237-847b25e2f703)
 
-  ![contact2](https://github.com/rajxode/Contact-list/assets/120395470/d47d8924-2870-4ecb-9bb2-7be2d09ed4e0)
-
-  ![contact3](https://github.com/rajxode/Contact-list/assets/120395470/6206b049-5ad0-4520-b7d4-f2e2b89e1f59)
-
-  ![contact4](https://github.com/rajxode/Contact-list/assets/120395470/7130688a-9699-4558-9321-dd47dfefd6a2)
 
   
